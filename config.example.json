@@ -1,0 +1,7 @@
+{
+ "imap": {
+   "user": "<username>",
+   "password": "<password>",
+   "imap_url": "<IMAP server URL>"
+ }
+}
